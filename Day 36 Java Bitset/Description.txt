@@ -30,7 +30,7 @@ For the binary operations AND, OR, and XOR, operands are read from left to right
 
 AND 2 1
 
-B2 is the left operand, and B1 is the right operand. This operation should assign the result of B2 ^ B1 to .
+B2 is the left operand, and B1 is the right operand. This operation should assign the result of B2 ^ B1 to B2.
 
 Constraints
 
