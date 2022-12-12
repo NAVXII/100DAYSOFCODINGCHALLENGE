@@ -25,4 +25,5 @@ Sample Output
 40
 50
 5
+
 50
