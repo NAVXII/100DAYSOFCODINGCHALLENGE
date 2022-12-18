@@ -1,0 +1,12 @@
+1. You are given a string(str).
+2. You have to find the minimum number of characters to be inserted to convert it to a palindrome.
+Input Format
+A string
+Output Format
+Check the sample output and question video.
+Constraints
+1 <= length of s1 <= 10000
+Sample Input
+pepperatcoding
+Sample Output
+10
